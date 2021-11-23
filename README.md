@@ -1,2 +1,2 @@
 # CS571-Project-4
-Formant estimation from speech signals
+Humming windowing, Magnitude Spectrum and LPC were used in formant's estimation of speech signal.
